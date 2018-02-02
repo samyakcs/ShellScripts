@@ -1,0 +1,7 @@
+UNIX and Shell-scripting, Day-1
+by Yogesh Mahajan
+A generic data-file created by Yogesh Mahajan,
+so that all of us could run and practice a few commands
+5, This is 5th line
+1, Marked as 1, but not the first line, isn't it?
+yogesh

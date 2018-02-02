@@ -1,0 +1,2 @@
+# Check if ssh is runnig and send mail every 15 minutes
+*/15 * * * * /some/script/location/50_start_service_if_inactive.sh ssh yogesh.mahajan@techactivate.com > /dev/null
